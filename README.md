@@ -66,4 +66,4 @@ Roadmap
 
 Nexis is currently a work in progress. More details, installation instructions, and release information will be published when the first version is ready.
 
-Nexis — Linux Recovery, Built for Arch.
+i hope for ur support guys <3 .
