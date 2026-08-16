@@ -1,4 +1,4 @@
-#Nexis
+# Nexis
 
 #Coming Soon
 
@@ -6,14 +6,14 @@ Nexis is a recovery and system-assistance tool designed specifically for Arch Li
 
 Nexis is designed to help users recover and repair their Linux installation when common system problems occur, including issues involving system files, Wi-Fi, Bluetooth, and other essential components.
 
-#Architecture
+# Architecture
 
 Nexis is built around two main components:
 
 * nexis-core — the core CLI engine responsible for the underlying recovery and system operations.
 * nexis-gui — a graphical interface built with GTK4/libadwaita, providing a user-friendly way to interact with Nexis.
 
-#Recovery System
+# Recovery System
 
 One of Nexis’s main features is its dedicated recovery mechanism.
 
@@ -28,7 +28,7 @@ Nexis maintains a system state snapshot containing information such as:
 
 This allows Nexis to understand the system configuration and assist with recovery operations when the primary installation encounters serious problems.
 
-#System Assistance
+# System Assistance
 
 Nexis is designed to assist with common Arch Linux system issues, including:
 
@@ -39,13 +39,13 @@ Nexis is designed to assist with common Arch Linux system issues, including:
 * Recovering from system-level issues
 * Restoring a system after critical changes to the main installation
 
-#Distribution Support
+# Distribution Support
 
 The initial release will target Arch Linux and Arch-based distributions only.
 
 Initial support is planned for Arch-based systems, with compatibility for additional Linux distributions planned for future updates.
 
-#Development Status
+# Development Status
 
 Nexis is currently under active development.
 
