@@ -2,7 +2,7 @@
 
 # coming Soon
 
-Nexis is a recovery and system-assistance tool designed specifically for Arch Linux and Arch-based systems.
+Nexis is a open source recovery and system-assistance tool designed specifically for Arch Linux and Arch-based systems.
 
 Nexis is designed to help users recover and repair their Linux installation when common system problems occur, including issues involving system files, Wi-Fi, Bluetooth, and other essential components.
 
