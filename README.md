@@ -1,6 +1,6 @@
 # Nexis
 
-#Coming Soon
+# coming Soon
 
 Nexis is a recovery and system-assistance tool designed specifically for Arch Linux and Arch-based systems.
 
